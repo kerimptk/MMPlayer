@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MMP_DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="calma_liste_detay">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="calma_listesi_id" Type="int" />
+    <Property Name="parca_url" Type="varchar" MaxLength="1000" />
+    <Property Name="sil_id" Type="int" />
+    <Property Name="olusturma_tarihi" Type="datetime" />
+    <Property Name="guncelleme_tarihi" Type="datetime" />
+  </EntityType>
+  <EntityType Name="calma_listesi_kart">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="liste_adi" Type="varchar" MaxLength="100" />
+    <Property Name="sil_id" Type="int" />
+    <Property Name="olusturma_tarihi" Type="datetime" />
+    <Property Name="guncelleme_tarihi" Type="datetime" />
+  </EntityType>
+  <Association Name="FK__calma_lis__calma__440B1D61">
+    <End Role="calma_listesi_kart" Type="Self.calma_listesi_kart" Multiplicity="0..1" />
+    <End Role="calma_liste_detay" Type="Self.calma_liste_detay" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="calma_listesi_kart">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="calma_liste_detay">
+        <PropertyRef Name="calma_listesi_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MMP_DBModelStoreContainer">
+    <EntitySet Name="calma_liste_detay" EntityType="Self.calma_liste_detay" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="calma_listesi_kart" EntityType="Self.calma_listesi_kart" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__calma_lis__calma__440B1D61" Association="Self.FK__calma_lis__calma__440B1D61">
+      <End Role="calma_listesi_kart" EntitySet="calma_listesi_kart" />
+      <End Role="calma_liste_detay" EntitySet="calma_liste_detay" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

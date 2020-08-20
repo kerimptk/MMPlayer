@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="MMP_DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="calma_liste_detay">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="calma_listesi_id" Type="int" />
+          <Property Name="parca_url" Type="varchar" MaxLength="1000" />
+          <Property Name="sil_id" Type="int" />
+          <Property Name="olusturma_tarihi" Type="datetime" />
+          <Property Name="guncelleme_tarihi" Type="datetime" />
+        </EntityType>
+        <EntityType Name="calma_listesi_kart">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="liste_adi" Type="varchar" MaxLength="100" />
+          <Property Name="sil_id" Type="int" />
+          <Property Name="olusturma_tarihi" Type="datetime" />
+          <Property Name="guncelleme_tarihi" Type="datetime" />
+        </EntityType>
+        <Association Name="FK__calma_lis__calma__440B1D61">
+          <End Role="calma_listesi_kart" Type="Self.calma_listesi_kart" Multiplicity="0..1" />
+          <End Role="calma_liste_detay" Type="Self.calma_liste_detay" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="calma_listesi_kart">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="calma_liste_detay">
+              <PropertyRef Name="calma_listesi_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="MMP_DBModelStoreContainer">
+          <EntitySet Name="calma_liste_detay" EntityType="Self.calma_liste_detay" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="calma_listesi_kart" EntityType="Self.calma_listesi_kart" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__calma_lis__calma__440B1D61" Association="Self.FK__calma_lis__calma__440B1D61">
+            <End Role="calma_listesi_kart" EntitySet="calma_listesi_kart" />
+            <End Role="calma_liste_detay" EntitySet="calma_liste_detay" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MMP_DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="calma_liste_detay">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="calma_listesi_id" Type="Int32" />
+          <Property Name="parca_url" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+          <Property Name="sil_id" Type="Int32" />
+          <Property Name="olusturma_tarihi" Type="DateTime" Precision="3" />
+          <Property Name="guncelleme_tarihi" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="calma_listesi_kart" Relationship="Self.FK__calma_lis__calma__286302EC" FromRole="calma_liste_detay" ToRole="calma_listesi_kart" />
+        </EntityType>
+        <EntityType Name="calma_listesi_kart">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="liste_adi" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="sil_id" Type="Int32" />
+          <Property Name="olusturma_tarihi" Type="DateTime" Precision="3" />
+          <Property Name="guncelleme_tarihi" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="calma_liste_detay" Relationship="Self.FK__calma_lis__calma__286302EC" FromRole="calma_listesi_kart" ToRole="calma_liste_detay" />
+        </EntityType>
+        <Association Name="FK__calma_lis__calma__286302EC">
+          <End Role="calma_listesi_kart" Type="Self.calma_listesi_kart" Multiplicity="0..1" />
+          <End Role="calma_liste_detay" Type="Self.calma_liste_detay" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="calma_listesi_kart">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="calma_liste_detay">
+              <PropertyRef Name="calma_listesi_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="MMP_DBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="calma_liste_detay" EntityType="Self.calma_liste_detay" />
+          <EntitySet Name="calma_listesi_kart" EntityType="Self.calma_listesi_kart" />
+          <AssociationSet Name="FK__calma_lis__calma__286302EC" Association="Self.FK__calma_lis__calma__286302EC">
+            <End Role="calma_listesi_kart" EntitySet="calma_listesi_kart" />
+            <End Role="calma_liste_detay" EntitySet="calma_liste_detay" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="MMP_DBModelStoreContainer" CdmEntityContainer="MMP_DBEntities">
+          <EntitySetMapping Name="calma_liste_detay">
+            <EntityTypeMapping TypeName="MMP_DBModel.calma_liste_detay">
+              <MappingFragment StoreEntitySet="calma_liste_detay">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="calma_listesi_id" ColumnName="calma_listesi_id" />
+                <ScalarProperty Name="parca_url" ColumnName="parca_url" />
+                <ScalarProperty Name="sil_id" ColumnName="sil_id" />
+                <ScalarProperty Name="olusturma_tarihi" ColumnName="olusturma_tarihi" />
+                <ScalarProperty Name="guncelleme_tarihi" ColumnName="guncelleme_tarihi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="calma_listesi_kart">
+            <EntityTypeMapping TypeName="MMP_DBModel.calma_listesi_kart">
+              <MappingFragment StoreEntitySet="calma_listesi_kart">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="liste_adi" ColumnName="liste_adi" />
+                <ScalarProperty Name="sil_id" ColumnName="sil_id" />
+                <ScalarProperty Name="olusturma_tarihi" ColumnName="olusturma_tarihi" />
+                <ScalarProperty Name="guncelleme_tarihi" ColumnName="guncelleme_tarihi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

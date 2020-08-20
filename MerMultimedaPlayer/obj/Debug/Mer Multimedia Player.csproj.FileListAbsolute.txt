@@ -1,0 +1,304 @@
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\MerTV.exe.config
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\MerTV.exe.manifest
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\MerTV.application
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\MerTV.exe
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\MerTV.pdb
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.ResolveComReference.cache
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmCalmaListesi.resources
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.MainMerPlayer.resources
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmEkranGoruntusu.resources
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\MerTV.Properties.Resources.resources
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.GenerateResource.cache
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\MerTV.exe.manifest
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\MerTV.application
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\MerTV.exe
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\MerTV.pdb
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csprojAssemblyReference.cache
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmVideoKaydi.resources
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\MediaBase.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\MediaSuite.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\VisioForge.DirectX.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\VisioForge.Shared.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\VisioForge.Tools.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\VisioForge.Types.dll
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\MediaBase.xml
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\bin\Debug\MediaSuite.xml
+C:\Users\kerim\Desktop\MMP\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.CopyComplete
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\MerTV.exe.config
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\MerTV.exe.manifest
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\MerTV.application
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\MerTV.exe
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\MerTV.pdb
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.DirectX.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Shared.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Tools.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Types.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.xml
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.xml
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csprojAssemblyReference.cache
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.ResolveComReference.cache
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmCalmaListesi.resources
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmVideoKaydi.resources
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.MainMerPlayer.resources
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmEkranGoruntusu.resources
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\MerTV.Properties.Resources.resources
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.GenerateResource.cache
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\MerTV.exe.manifest
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\MerTV.application
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.CopyComplete
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\MerTV.exe
+C:\Users\kerim\Desktop\MMPlayer\MerMultimedaPlayer\obj\Debug\MerTV.pdb
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Interop.WMPLib.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.ResolveComReference.cache
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmCalmaListesi.resources
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmVideoKaydi.resources
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.MainMerPlayer.resources
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmEkranGoruntusu.resources
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.GenerateResource.cache
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.DirectX.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.MediaFramework.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Shared.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Tools.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Types.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.xml
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.xml
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.xml
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\Interop.WMPLib.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\AxInterop.WMPLib.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.CopyComplete
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe.config
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe.manifest
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.application
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.pdb
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.Properties.Resources.resources
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.exe.manifest
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.application
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.exe
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.pdb
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe.config
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe.manifest
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.application
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.pdb
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.DirectX.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.MediaFramework.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Shared.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Tools.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Types.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.xml
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.xml
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.xml
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\Interop.WMPLib.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\AxInterop.WMPLib.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Interop.WMPLib.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\AxInterop.WMPLib.dll
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.ResolveComReference.cache
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmCalmaListesi.resources
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmVideoKaydi.resources
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.MainMerPlayer.resources
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmEkranGoruntusu.resources
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.Properties.Resources.resources
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.GenerateResource.cache
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.exe.manifest
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.application
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.CopyComplete
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.exe
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.pdb
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.exe
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.pdb
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe.config
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe.manifest
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.application
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.pdb
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.SqlServer.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.DirectX.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.MediaFramework.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Shared.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Tools.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Types.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.xml
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.SqlServer.xml
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.xml
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.xml
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\Interop.WMPLib.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\AxInterop.WMPLib.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Interop.WMPLib.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\AxInterop.WMPLib.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.ResolveComReference.cache
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmCalmaListesi.resources
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmVideoKaydi.resources
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.MainMerPlayer.resources
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmEkranGoruntusu.resources
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.Properties.Resources.resources
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.GenerateResource.cache
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.exe.manifest
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.application
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.CopyComplete
+F:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csprojAssemblyReference.cache
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe.config
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe.manifest
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.application
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.pdb
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.DirectX.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Shared.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Tools.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Types.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.xml
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.xml
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.xml
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.ResolveComReference.cache
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmCalmaListesi.resources
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmVideoKaydi.resources
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.MainMerPlayer.resources
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmEkranGoruntusu.resources
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.Properties.Resources.resources
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.GenerateResource.cache
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.exe.manifest
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.application
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.CopyComplete
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.exe
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.pdb
+C:\Users\kerim\Desktop\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csprojAssemblyReference.cache
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\NAudio.dll
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\NAudio.xml
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.CoreCompileInputs.cache
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\NAudio.dll
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\bin\Debug\NAudio.xml
+G:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csprojAssemblyReference.cache
+E:\projeler\C# Projeler\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csprojAssemblyReference.cache
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe.config
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe.manifest
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.application
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.pdb
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\NAudio.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.DirectX.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.MediaFramework.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Shared.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Tools.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Types.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.xml
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.xml
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.xml
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\NAudio.xml
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\Interop.WMPLib.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\AxInterop.WMPLib.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csprojAssemblyReference.cache
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\Interop.WMPLib.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.ResolveComReference.cache
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmCalmaListesi.resources
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.MainMerPlayer.resources
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmEkranGoruntusu.resources
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.Properties.Resources.resources
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.GenerateResource.cache
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.CoreCompileInputs.cache
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.exe.manifest
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.application
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.CopyComplete
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.exe
+E:\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.pdb
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe.config
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe.manifest
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.application
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.exe
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MerMultimedaPlayer.pdb
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\NAudio.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Controls.UI.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.DirectX.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Shared.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Tools.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\VisioForge.Types.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.xml
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaBase.xml
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\MediaSuite.xml
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\NAudio.xml
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.ResolveComReference.cache
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmCalmaListesi.resources
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.MainMerPlayer.resources
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.frmEkranGoruntusu.resources
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.Properties.Resources.resources
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.GenerateResource.cache
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.CoreCompileInputs.cache
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.exe.manifest
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.application
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\Mer Multimedia Player.csproj.CopyComplete
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.exe
+C:\Users\kerimptk\Desktop\USB YEDEK PROJE VS\projeler\C# Projeler - WinFOrm\MMPlayer\MerMultimedaPlayer\obj\Debug\MerMultimedaPlayer.pdb

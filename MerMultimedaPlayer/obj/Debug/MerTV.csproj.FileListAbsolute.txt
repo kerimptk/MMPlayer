@@ -1,0 +1,113 @@
+D:\VektorelDosyalar\MerTV\MerTV\bin\Debug\MerTV.exe.config
+D:\VektorelDosyalar\MerTV\MerTV\bin\Debug\MerTV.exe
+D:\VektorelDosyalar\MerTV\MerTV\bin\Debug\MerTV.pdb
+D:\VektorelDosyalar\MerTV\MerTV\bin\Debug\Interop.WMPLib.dll
+D:\VektorelDosyalar\MerTV\MerTV\bin\Debug\AxInterop.WMPLib.dll
+D:\VektorelDosyalar\MerTV\MerTV\obj\Debug\MerTV.csprojAssemblyReference.cache
+D:\VektorelDosyalar\MerTV\MerTV\obj\Debug\Interop.WMPLib.dll
+D:\VektorelDosyalar\MerTV\MerTV\obj\Debug\AxInterop.WMPLib.dll
+D:\VektorelDosyalar\MerTV\MerTV\obj\Debug\MerTV.csproj.ResolveComReference.cache
+D:\VektorelDosyalar\MerTV\MerTV\obj\Debug\MerTV.Properties.Resources.resources
+D:\VektorelDosyalar\MerTV\MerTV\obj\Debug\MerTV.csproj.GenerateResource.cache
+D:\VektorelDosyalar\MerTV\MerTV\obj\Debug\MerTV.exe
+D:\VektorelDosyalar\MerTV\MerTV\obj\Debug\MerTV.pdb
+D:\VektorelDosyalar\MerTV\MerTV\obj\Debug\MerTV.MainMerPlayer.resources
+D:\VektorelDosyalar\MerTV\MerTV\bin\Debug\MerTV.exe.manifest
+D:\VektorelDosyalar\MerTV\MerTV\bin\Debug\MerTV.application
+D:\VektorelDosyalar\MerTV\MerTV\obj\Debug\MerTV.exe.manifest
+D:\VektorelDosyalar\MerTV\MerTV\obj\Debug\MerTV.application
+E:\MerTV\MerTV\bin\Debug\MerTV.exe.config
+E:\MerTV\MerTV\bin\Debug\MerTV.exe.manifest
+E:\MerTV\MerTV\bin\Debug\MerTV.application
+E:\MerTV\MerTV\bin\Debug\MerTV.exe
+E:\MerTV\MerTV\bin\Debug\MerTV.pdb
+E:\MerTV\MerTV\bin\Debug\Interop.WMPLib.dll
+E:\MerTV\MerTV\bin\Debug\AxInterop.WMPLib.dll
+E:\MerTV\MerTV\obj\Debug\MerTV.csprojAssemblyReference.cache
+E:\MerTV\MerTV\obj\Debug\Interop.WMPLib.dll
+E:\MerTV\MerTV\obj\Debug\AxInterop.WMPLib.dll
+E:\MerTV\MerTV\obj\Debug\MerTV.csproj.ResolveComReference.cache
+E:\MerTV\MerTV\obj\Debug\MerTV.MainMerPlayer.resources
+E:\MerTV\MerTV\obj\Debug\MerTV.Properties.Resources.resources
+E:\MerTV\MerTV\obj\Debug\MerTV.csproj.GenerateResource.cache
+E:\MerTV\MerTV\obj\Debug\MerTV.exe.manifest
+E:\MerTV\MerTV\obj\Debug\MerTV.application
+E:\MerTV\MerTV\obj\Debug\MerTV.exe
+E:\MerTV\MerTV\obj\Debug\MerTV.pdb
+F:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.exe.config
+F:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.exe.manifest
+F:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.application
+F:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.exe
+F:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.pdb
+F:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\Interop.WMPLib.dll
+F:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\AxInterop.WMPLib.dll
+F:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.csprojAssemblyReference.cache
+F:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\Interop.WMPLib.dll
+F:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\AxInterop.WMPLib.dll
+F:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.csproj.ResolveComReference.cache
+F:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.MainMerPlayer.resources
+F:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.Properties.Resources.resources
+F:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.csproj.GenerateResource.cache
+F:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.exe.manifest
+F:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.application
+F:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.exe
+F:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.pdb
+F:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.frmEkranGoruntusu.resources
+G:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.exe.config
+G:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.exe.manifest
+G:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.application
+G:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.exe
+G:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.pdb
+G:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\Interop.WMPLib.dll
+G:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\AxInterop.WMPLib.dll
+G:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.csprojAssemblyReference.cache
+G:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\Interop.WMPLib.dll
+G:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\AxInterop.WMPLib.dll
+G:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.csproj.ResolveComReference.cache
+G:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.MainMerPlayer.resources
+G:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.frmEkranGoruntusu.resources
+G:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.Properties.Resources.resources
+G:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.csproj.GenerateResource.cache
+G:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.exe.manifest
+G:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.application
+G:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.exe
+G:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.pdb
+E:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.exe.config
+E:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.exe.manifest
+E:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.application
+E:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.exe
+E:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\MerTV.pdb
+E:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\Interop.WMPLib.dll
+E:\projeler\C# Projeler\MerTV\MerTV\bin\Debug\AxInterop.WMPLib.dll
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.csprojAssemblyReference.cache
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\Interop.WMPLib.dll
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\AxInterop.WMPLib.dll
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.csproj.ResolveComReference.cache
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.MainMerPlayer.resources
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.frmEkranGoruntusu.resources
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.Properties.Resources.resources
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.csproj.GenerateResource.cache
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.exe.manifest
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.application
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.exe
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.pdb
+E:\projeler\C# Projeler\MerTV\MerTV\obj\Debug\MerTV.VideoForm.resources
+C:\Users\kerim\Desktop\MerTV\MerTV\bin\Debug\MerTV.exe.config
+C:\Users\kerim\Desktop\MerTV\MerTV\bin\Debug\MerTV.exe.manifest
+C:\Users\kerim\Desktop\MerTV\MerTV\bin\Debug\MerTV.application
+C:\Users\kerim\Desktop\MerTV\MerTV\bin\Debug\MerTV.exe
+C:\Users\kerim\Desktop\MerTV\MerTV\bin\Debug\MerTV.pdb
+C:\Users\kerim\Desktop\MerTV\MerTV\bin\Debug\Interop.WMPLib.dll
+C:\Users\kerim\Desktop\MerTV\MerTV\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kerim\Desktop\MerTV\MerTV\obj\Debug\Interop.WMPLib.dll
+C:\Users\kerim\Desktop\MerTV\MerTV\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kerim\Desktop\MerTV\MerTV\obj\Debug\MerTV.csproj.ResolveComReference.cache
+C:\Users\kerim\Desktop\MerTV\MerTV\obj\Debug\MerTV.MainMerPlayer.resources
+C:\Users\kerim\Desktop\MerTV\MerTV\obj\Debug\MerTV.frmEkranGoruntusu.resources
+C:\Users\kerim\Desktop\MerTV\MerTV\obj\Debug\MerTV.Properties.Resources.resources
+C:\Users\kerim\Desktop\MerTV\MerTV\obj\Debug\MerTV.csproj.GenerateResource.cache
+C:\Users\kerim\Desktop\MerTV\MerTV\obj\Debug\MerTV.exe.manifest
+C:\Users\kerim\Desktop\MerTV\MerTV\obj\Debug\MerTV.application
+C:\Users\kerim\Desktop\MerTV\MerTV\obj\Debug\MerTV.exe
+C:\Users\kerim\Desktop\MerTV\MerTV\obj\Debug\MerTV.pdb
+C:\Users\kerim\Desktop\MerTV\MerTV\obj\Debug\MerTV.frmCalmaListesi.resources

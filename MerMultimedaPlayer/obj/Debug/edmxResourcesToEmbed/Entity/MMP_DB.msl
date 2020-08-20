@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MMP_DBModelStoreContainer" CdmEntityContainer="MMP_DBEntities">
+    <EntitySetMapping Name="calma_liste_detay">
+      <EntityTypeMapping TypeName="MMP_DBModel.calma_liste_detay">
+        <MappingFragment StoreEntitySet="calma_liste_detay">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="calma_listesi_id" ColumnName="calma_listesi_id" />
+          <ScalarProperty Name="parca_url" ColumnName="parca_url" />
+          <ScalarProperty Name="sil_id" ColumnName="sil_id" />
+          <ScalarProperty Name="olusturma_tarihi" ColumnName="olusturma_tarihi" />
+          <ScalarProperty Name="guncelleme_tarihi" ColumnName="guncelleme_tarihi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="calma_listesi_kart">
+      <EntityTypeMapping TypeName="MMP_DBModel.calma_listesi_kart">
+        <MappingFragment StoreEntitySet="calma_listesi_kart">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="liste_adi" ColumnName="liste_adi" />
+          <ScalarProperty Name="sil_id" ColumnName="sil_id" />
+          <ScalarProperty Name="olusturma_tarihi" ColumnName="olusturma_tarihi" />
+          <ScalarProperty Name="guncelleme_tarihi" ColumnName="guncelleme_tarihi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

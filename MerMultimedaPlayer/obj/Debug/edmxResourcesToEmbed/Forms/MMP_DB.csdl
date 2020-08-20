@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MMP_DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="calma_liste_detay">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="calma_listesi_id" Type="Int32" />
+    <Property Name="parca_url" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="sil_id" Type="Int32" />
+    <Property Name="olusturma_tarihi" Type="DateTime" Precision="3" />
+    <Property Name="guncelleme_tarihi" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="calma_listesi_kart" Relationship="Self.FK__calma_lis__calma__286302EC" FromRole="calma_liste_detay" ToRole="calma_listesi_kart" />
+  </EntityType>
+  <EntityType Name="calma_listesi_kart">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="liste_adi" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="sil_id" Type="Int32" />
+    <Property Name="olusturma_tarihi" Type="DateTime" Precision="3" />
+    <Property Name="guncelleme_tarihi" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="calma_liste_detay" Relationship="Self.FK__calma_lis__calma__286302EC" FromRole="calma_listesi_kart" ToRole="calma_liste_detay" />
+  </EntityType>
+  <Association Name="FK__calma_lis__calma__286302EC">
+    <End Role="calma_listesi_kart" Type="Self.calma_listesi_kart" Multiplicity="0..1" />
+    <End Role="calma_liste_detay" Type="Self.calma_liste_detay" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="calma_listesi_kart">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="calma_liste_detay">
+        <PropertyRef Name="calma_listesi_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="calma_liste_detay" EntityType="Self.calma_liste_detay" />
+    <EntitySet Name="calma_listesi_kart" EntityType="Self.calma_listesi_kart" />
+    <AssociationSet Name="FK__calma_lis__calma__286302EC" Association="Self.FK__calma_lis__calma__286302EC">
+      <End Role="calma_listesi_kart" EntitySet="calma_listesi_kart" />
+      <End Role="calma_liste_detay" EntitySet="calma_liste_detay" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
